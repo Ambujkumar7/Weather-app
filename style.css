@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    width: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 20%;
+
+}
+label{
+    display: block;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+button{
+    padding: 5px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+h2{
+
+}
+input{
+    padding: 5px;
+    border-radius: 20px;
+}
+#result{
+padding-top: 20px;
+display: flex;
+justify-content: center;
+align-items: center;
+font-family: serif;
+font-size: 20px;
+}
+
+.container{
+background-color: whitesmoke;
+padding: 20px;
+border-radius: 20px;
+}
